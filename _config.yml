@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Bitter Theme
+description: "A Jekyll theme for personal blogs inpired by old apple computers"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
